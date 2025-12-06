@@ -1,0 +1,1 @@
+Place your product images here. Filenames used by sample data: headphones.jpg, bottle.jpg, lamp.jpg, notebooks.jpg, speaker.jpg
