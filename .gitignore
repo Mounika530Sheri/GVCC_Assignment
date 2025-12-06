@@ -35,7 +35,10 @@ coverage/
 # SQLite Database Files
 # -------------------------
 
-*.sqlite
+# Allow the main DB file
+!backend/data.sqlite
+
+# Ignore temporary SQLite files
 *.sqlite-shm
 *.sqlite-wal
 
